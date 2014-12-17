@@ -5,7 +5,7 @@ Drop-in utility for reading and writing NSObjects to disk
 
 # Installation
 
-    pod install RTFDiskCache
+    pod 'RTFDiskCache'
 
 # Usage
 
